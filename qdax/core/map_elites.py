@@ -37,6 +37,7 @@ class MAPElites:
             any useful metric to track its evolution
     """
 
+
     def __init__(
         self,
         scoring_function: Callable[
